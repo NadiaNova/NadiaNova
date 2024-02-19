@@ -4,17 +4,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadianova" alt="nadianova" /></a> </p>
 
-- 🔭 I’m currently working as a **Web ADMIN and Technical Specialist in a Govt bank, Bangladesh.**
+- I’m currently working as a **Web ADMIN and Technical Specialist in a Govt bank, Bangladesh.**
   
-- 🔭 I’m currently working on **machine learning, deep learning and bioinformatics project.**
+- I’m currently working on **machine learning, deep learning and bioinformatics project.**
 
-- 🌱 I’m currently learning **NLP, LSTM and LLM.**
+- I’m currently learning **NLP, LSTM and LLM.**
 
-- 👯 I’m looking to collaborate on **machine learning, deep learning and bioinformatics projects with fellow researchers and developers.**
+- I’m looking to collaborate on **machine learning, deep learning and bioinformatics projects with fellow researchers and developers.**
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/afsananadia](https://www.kaggle.com/afsananadia)
+- All of my projects are available at [https://www.kaggle.com/afsananadia](https://www.kaggle.com/afsananadia)
 
-- 📫 How to reach me **afsana.ictd@gmail.com**
+- How to reach me **afsana.ictd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,11 +42,18 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Technical Skills:</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+  ✨ Python: Skilled in Python, a widely-used programming language for machine learning and data analysis.<br>
+  📚 PyTorch: Familiar with PyTorch, a deep learning framework.<br>
+  🎯 TensorFlow: Familiar with TensorFlow, another popular deep learning framework.<br>
+  🎲 OpenCV: Uses OpenCV, an open-source computer vision library, in projects.
+  🎲 Seaborn: Proficient in Seaborn, a data visualization library.
+  🎲 Matlab: Familiar with Matlab, a numerical computing environment.
+</p>
 
 ###
 
@@ -73,11 +80,4 @@
 </div>
 
 ###
-
-<p> Python: Skilled in Python, a widely-used programming language for machine learning and data analysis. </p>
-<p> PyTorch: Familiar with PyTorch, a deep learning framework. </p>
-<p> TensorFlow: Familiar with TensorFlow, another popular deep learning framework. </p>
-<p> OpenCV: Uses OpenCV, an open-source computer vision library, in projects. </p>
-<p> Seaborn: Proficient in Seaborn, a data visualization library. </p>
-<p> Matlab: Familiar with Matlab, a numerical computing environment. </p>
 
