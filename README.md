@@ -32,15 +32,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadianova&" alt="nadianova" /></p>
 
+
+<h1 align="left">Research Work:</h1>
+
+###
+
+<p align="left">My name is ... and I'm a ..., from ....
+
+</p>
+
 <h2 align="left"><a href="https://scholar.google.com/citations?user=6mDKAj0AAAAJ&hl=en&authuser=1">-- Nadia's Google Scholar profile!</a></h2>
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
 
 <h2 align="left">Technical Skills:</h2>
 
