@@ -37,7 +37,7 @@
   
   ✨ <a href="https://arxiv.org/abs/1401.6082"> Performance Evaluation of Two-Hop Wireless Link under Nakagami-m Fading</a>
   
-  ✨ <a href="https://www.ijeat.org/wp-content/uploads/papers/v2i4/D1335042413.pdf"> Performance Analysis of GSM Coverage considering Spectral Efficiency, Interference and Cell Sectoring</a>
+  ✨ <a href="https://www.ijeat.org/portfolio-item/d1315042413/"> Performance Analysis of GSM Coverage considering Spectral Efficiency, Interference and Cell Sectoring</a>
 
   ✨ <a href="https://www.researchgate.net/profile/Afsana-Nadia/publication/307138171_Performance_Analysis_of_Graded_p-i-n_Junction_Solar_Cell_by_using_Suitable_Materials/links/57c2839c08aeb95224d74a0f/Performance-Analysis-of-Graded-p-i-n-Junction-Solar-Cell-by-using-Suitable-Materials.pdf"> Performance Analysis of Graded pin Junction Solar Cell by using Suitable Materials</a>
 
@@ -46,9 +46,9 @@
 
 <h2 align="left"><a href="https://scholar.google.com/citations?user=6mDKAj0AAAAJ&hl=en&authuser=1">- Nadia's Google Scholar profile!</a></h2>
 
-<h2 align="left"><a href="https://www.researchgate.net/profile/Afsana-Nadia">- Nadia's Researchgate profile!</a></h2>
+<h2 align="left"><a href="https://www.researchgate.net/profile/Afsana-Nadia">- Nadia's ResearchGate profile!</a></h2>
 
-<h2 align="left"><a href="https://ewubd.academia.edu/NadiaNova">- Nadia's Academia profile!</a></h2>
+<h2 align="left"><a href="https://ewubd.academia.edu/NadiaNova">- Nadia's Academia.edu profile!</a></h2>
 
 ###
 
