@@ -33,6 +33,12 @@
 
 <p align="left">
 
+  ✨ <a href="https://doi.org/10.1007/978-3-031-82156-1_1"> A Bone Fracture Detection Using CNN Model</a>
+
+  ✨ <a href="https://doi.org/10.1145/3723178.3723197"> Sugarcane Leaf Disease Detection: A Comparative Analysis Using Deep Learning</a>
+  
+  ✨ <a href="https://doi.org/10.1109/ICCIT64611.2024.11022524"> Human and AI Written Text Detection Using Deep Learning and Machine Learning</a>
+
   ✨ <a href="https://www.hindawi.com/journals/jcnc/2017/6101568/"> Call Admission Scheme for Multidimensional Traffic Assuming Finite Handoff User</a>
   
   ✨ <a href="https://arxiv.org/abs/1401.6082"> Performance Evaluation of Two-Hop Wireless Link under Nakagami-m Fading</a>
